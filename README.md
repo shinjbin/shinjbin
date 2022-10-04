@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Shin,%20Jeongbin's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Shin,%20Jeongbin's%20Github&fontSize=50)
 <div align="center">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/shinjbin)](https://github.com/shinjbin)
@@ -58,4 +58,4 @@
 </div>
 
 
-![wave](https://capsule-render.vercel.app/api?section=footer&type=rect&color=gradient&height=200)
+![wave](https://capsule-render.vercel.app/api?section=footer&type=rect&color=timeGradient&height=200)
