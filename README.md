@@ -25,7 +25,7 @@
   <br>
   <img src="https://img.shields.io/badge/-C++-ffffff?logo=C"/>&nbsp
   <img src="https://img.shields.io/badge/-PYTHON-ffffff?logo=Python"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVA-ffffff?logo=Java"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java-ffffff?logo=Java"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS3-ffffff?logo=CSS3&logoColor=blue"/>&nbsp
