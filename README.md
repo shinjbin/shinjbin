@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokmin-hong-a51626223/)](https://www.linkedin.com/in/seokmin-hong-a51626223/)
 [![TechBlog Badge](https://img.shields.io/static/v1.svg?label=Tech%20&message=%20Blog&color=black)](https://gainweightdeveloper.tistory.com/)
   <br>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/ohhongmin)](https://www.instagram.com/ohhongmin)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/jbini10)](https://www.instagram.com/ohhongmin)
 [![SoundCloud Badge](https://img.shields.io/badge/-SoundCloud-FF3300?logo=SoundCloud&logoColor=white&link=https://soundcloud.com/ohhongmin)](https://soundcloud.com/ohhongmin)
 <br>
 <br>
@@ -13,7 +13,7 @@
 [![CV Badge](https://img.shields.io/static/v1.svg?label=CV%20&message=%20EN&color=white)](https://github.com/shinjbin/cv/tree/main/EN)
 <br>
   <br>
-[![TODO Badge](https://img.shields.io/badge/-TODO-white?logo=Verizon&logoColor=red&link=https://github.com/honghyeong/todo)](https://github.com/honghyeong/todo)
+[![TODO Badge](https://img.shields.io/badge/-TODO-white?logo=Verizon&logoColor=red&link=https://github.com/shinjbin/todo)](https://github.com/shinjbin/todo)
   
 <br>
 <br>
