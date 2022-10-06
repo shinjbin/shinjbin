@@ -2,8 +2,8 @@
 <div align="center">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/shinjbin)](https://github.com/shinjbin)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokmin-hong-a51626223/)](https://www.linkedin.com/in/seokmin-hong-a51626223/) 
-[![TechBlog Badge](https://img.shields.io/static/v1.svg?label=Tech%20&message=%20Blog&color=black)](https://5hongmin.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokmin-hong-a51626223/)](https://www.linkedin.com/in/seokmin-hong-a51626223/)
+[![TechBlog Badge](https://img.shields.io/static/v1.svg?label=Tech%20&message=%20Blog&color=black)](https://gainweightdeveloper.tistory.com/)
   <br>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/ohhongmin)](https://www.instagram.com/ohhongmin)
 [![SoundCloud Badge](https://img.shields.io/badge/-SoundCloud-FF3300?logo=SoundCloud&logoColor=white&link=https://soundcloud.com/ohhongmin)](https://soundcloud.com/ohhongmin)
