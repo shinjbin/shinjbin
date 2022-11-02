@@ -18,6 +18,7 @@
 <br>
 <br>
 </div>
+<h3 align="center"><a href="https://github.com/shinjbin/Algorithm">Algorithm</h3>
 
 <br>
 <h3 align="center">⚙️ Tech Stack ⚙️</h3>
