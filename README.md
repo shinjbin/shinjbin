@@ -18,7 +18,7 @@
 <br>
 <br>
 </div>
-<h3 align="center"><a href="https://github.com/shinjbin/Algorithm">Algorithm</h3>
+<h3 align="center"><a href="https://github.com/shinjbin/Algorithm">알고리즘 문제풀이</h3>
 
 <br>
 <h3 align="center">⚙️ Tech Stack ⚙️</h3>
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-C++-ffffff?logo=C"/>&nbsp
   <img src="https://img.shields.io/badge/-PYTHON-ffffff?logo=Python"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-ffffff?logo=JAVA"/>&nbsp
+  <img src="https://img.shields.io/badge/-Javascript-ffffff?logo=Javascript"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS3-ffffff?logo=CSS3&logoColor=blue"/>&nbsp
@@ -34,7 +35,6 @@
   <br>
   <img src="https://img.shields.io/badge/-Spring-ffffff?logo=Spring"/>&nbsp
   <img src="https://img.shields.io/badge/-Pytorch-ffffff?logo=NestJs&logoColor=E0234E"/>&nbsp
-  <img src="https://img.shields.io/badge/-Express-ffffff?logo=Express&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-ffffff?logo=Node.js&logoColor=339933"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL"/>&nbsp
